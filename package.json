@@ -1,0 +1,23 @@
+{
+  "name": "split-pane",
+  "version": "1.0.0",
+  "description": "Resizeable split pane built using react",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malware27/split-pane.git"
+  },
+  "keywords": [
+    "split-pane",
+    "resizable"
+  ],
+  "author": "Kishan Ghetia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/malware27/split-pane/issues"
+  },
+  "homepage": "https://github.com/malware27/split-pane#readme"
+}
